@@ -32,7 +32,7 @@ The main source files are organized as follows:
 
 The following figure shows the overall procedure of Algorithm B.
 
-![Algorithm B flowchart](block_diagram2.jpg)
+![Algorithm B flowchart](block_diagram.jpg)
 
 ## Notes
 
