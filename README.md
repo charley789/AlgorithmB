@@ -28,6 +28,12 @@ The main source files are organized as follows:
 - `ldpcQaun/OSD/OSD.c`  
   Implementation of the **order statistic decoder (OSD)**.
 
+## Flowchart
+
+The following figure shows the overall procedure of Algorithm B.
+
+![Algorithm B flowchart](block_diagram2.pdf)
+
 ## Notes
 
 - The decoding process is mainly controlled from `BPOSD.c`.
